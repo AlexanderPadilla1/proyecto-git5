@@ -2,6 +2,7 @@
 #Autor:Alexander Padilla
 
 def main():
-    print("hola munto")
+    nombre=input("ingresa tu nombre: ")
+    print("hola", nombre, "Bienvenido a git")
 if __name__ == "__main__":
     main()
