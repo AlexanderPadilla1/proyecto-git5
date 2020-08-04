@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        
+<title>Informacion</title>
+<link href="estilos/styles.css" rel="stylesheet" type="text/css" />
+    </h:head>
+    <h:body>
+        <div id="container">
+            <div id="header">
+                <div class="mainLogo">
+				<div class="logo">PROYECTO</div>
+				<div class="logo">Casos covid-19</div>
+				<div class="author"></div>
+			</div>
+            
+            </div>
+            <br/>
+            <br/>
+            <div id="container2" class="headerImg2">
+            
+		<img src="imagenes/camas.jpg" alt="" />
+            
+                <br/>
+                 <br/>
+                 
+          Los coronavirus (CoV) son una gran familia de virus que causan enfermedades que van desde el 
+          resfriado común hasta enfermedades más graves. La epidemia de COVID-19 fue declarada por la OMS 
+          una emergencia de salud pública de preocupación internacional el 30 de enero de 2020.
+          
+            
+           
+        </div>
+            <div align="center">
+                <h:panelGrid columns="2">
+                    <p:column>
+                        <p:chart type="pie" model="#{beanReportes.torta2}"
+                        style="width:300px;height:300px" />
+                    </p:column>
+                    <p:column>
+                        <p:chart type="pie" model="#{beanReportes.torta2}"
+                        style="width:300px;height:300px" />
+                    </p:column>
+                </h:panelGrid>
+                
+            </div>
+            </div>
+        <br/>
+         <br/>
+          <br/>
+           <br/>
+        
+        
+        <li><center><h:link value="Regresar" outcome="rinfo" /></center></li>
+        
+       
+    </h:body>
+</html>
