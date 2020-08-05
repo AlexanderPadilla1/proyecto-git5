@@ -13,7 +13,7 @@ Se debe gestionar una base de datos multidimensional, cuya información provenga
 
 Sistemas de Información ---> WildFly 12.0, Eclipse JEE, Planner, Office 365
 
-Software Libre ---> GutHub
+Software Libre ---> GutHub 
 
 Gestión de base de datods ---> Postgres, Pentaho Report Designer, Pentaho Data Integration, Power Architect
 
@@ -38,7 +38,7 @@ Este módulo se accede sin necesidad de autenticación. Muestra información bá
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
 
 
 ## Autores ✒️
