@@ -21,64 +21,25 @@ Sistemas de Información ---> WildFly 12.0, Eclipse JEE, Planner, Office 365
 Software Libre ---> GutHub
 Gestión de base de datods ---> Postgres, Pentaho Report Designer, Pentaho Data Integration, Power Architect
 
-### Instalación 🔧
+### Módulos 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+--Módulo de Seguridad 
 
-_Dí cómo será ese paso_
+Este módulo permite la administración de usuarios (creación de usuarios, cambio de clave, bloqueo de usuarios y consulta de usuarios). Además, en este módulo se guarda el registro de las actividades realizadas en la base de datos mediante auditoría. Existen tres tipos de usuarios: invitado quien no necesita registrarse para acceder a la información pública del portal, administrador quien tiene acceso al módulo de seguridad y usuario registrado que puede visualizar reportes especializados en el módulo de reportes.
 
-```
-Da un ejemplo
-```
+--Módulo Reportes 
+Este módulo consiste en la creación y publicación de reportes avanzados, cuya fuente de información será la base de datos multidimensional (Almacén de datos), cada uno de los reportes deben ser presentados en una aplicación web, desde la cual el usuario ingresará o seleccionará los criterios de búsqueda para generar el reporte. Los reportes deberán ser para contestar las preguntas que cada grupo tendrá en el archivo de requerimientos del Datawarehouse. Los tipos de reportes que deberán presentar son: 
+· Tipo texto  
+· Con gráficos de barras 
+· Con gráficos tipo pastel 
 
-_Y repite_
+--Módulo de invitado 
+Este módulo se accede sin necesidad de autenticación. Muestra información básica de la aplicación para visitantes. Contiene un resumen de los indicadores que maneja el sistema y gráficas básicas. Los visitantes en esta parte no pueden aplicar filtros ni generar reportes. También debe mostrar información sobre los autores del sistema y los enlaces al repositorio de software.
 
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
 
 
 ## Autores ✒️
