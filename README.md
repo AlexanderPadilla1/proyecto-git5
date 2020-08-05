@@ -40,8 +40,8 @@ Este módulo se accede sin necesidad de autenticación. Muestra información bá
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
-[My Wiki](https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra 
+[Wiki](https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
 
 ## Autores ✒️
 Alexander Padilla, 
@@ -57,7 +57,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 *Un trabajo de investigación es siempre fruto de ideas, proyectos y esfuerzos previos que
 corresponden a otras personas. En este caso damos un sincero agradecimiento a la Universidad Politecnica Salesiana y en especial a los ingenierios de la carrera de Ingenieria en Ciencias de la Computacion, ya que por su conocimiento brindado nos ayudara en un futuro a enfrentar la vida profesional sin duda estaremos siempre en
-deuda. Gracias a todos por su  su tiempo y sus ideas. 
+deuda. Gracias a todos por su tiempo y sus ideas. 
 
 
 ---
