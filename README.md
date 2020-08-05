@@ -28,7 +28,9 @@ Este módulo permite la administración de usuarios (creación de usuarios, camb
 Este módulo consiste en la creación y publicación de reportes avanzados, cuya fuente de información será la base de datos multidimensional (Almacén de datos), cada uno de los reportes deben ser presentados en una aplicación web, desde la cual el usuario ingresará o seleccionará los criterios de búsqueda para generar el reporte. Los reportes deberán ser para contestar las preguntas que cada grupo tendrá en el archivo de requerimientos del Datawarehouse. Los tipos de reportes que deberán presentar son: 
 
 · Tipo texto  
+
 · Con gráficos de barras 
+
 · Con gráficos tipo pastel 
 
 --Módulo de invitado 
@@ -38,7 +40,7 @@ Este módulo se accede sin necesidad de autenticación. Muestra información bá
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra WIKI (https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
 
 
 ## Autores ✒️
