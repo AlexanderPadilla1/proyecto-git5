@@ -1,4 +1,4 @@
-Desarrollo de una aplicación que acceda a una base de datos multidimensional utilizando herramientas de software libre
+Desarrollo de una aplicación web que permita acceso a una base de datos multidimensional utilizando herramientas de software libre.
 # Casos de COVID-19 en España - Grupo 7
 
 El presente proyecto integrador se compone de dos partes. La primera es un sistema donde se aplicará los conocimientos de Sistemas de Información y Gestión de Base de Datos;
