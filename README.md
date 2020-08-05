@@ -7,14 +7,7 @@ mientras que, la segunda parte es la gestión del proyecto, el cual se manejará
 
 ## Comenzando 🚀
 
-Se debe gestionar una base de datos multidimensional, cuya información provenga de diversas fuentes de datos. Para esto se utilizará las herramientas de Pentaho
-
-Community Server. La información contenida en la base de datos será presentada utilizando una aplicación web con reportes en PDF y gráficos estadísticos.
-
-Todo el desarrollo del proyecto se lo realizará de manera cooperativa entre todos los miembros del grupo. Los avances, el código fuente y toda la información que se
-
-genere durante el proyecto se manejará de forma centralizada a través de un repositorio de código fuente en GitHub.
-
+Se debe gestionar una base de datos multidimensional, cuya información provenga de diversas fuentes de datos. Para esto se utilizará las herramientas de Pentaho Community Server. La información contenida en la base de datos será presentada utilizando una aplicación web con reportes en PDF y gráficos estadísticos. Todo el desarrollo del proyecto se lo realizará de manera cooperativa entre todos los miembros del grupo. Los avances, el código fuente y toda la información que se genere durante el proyecto se manejará de forma centralizada a través de un repositorio de código fuente en GitHub.
 
 ## Construido con 🛠️
 
