@@ -15,7 +15,7 @@ Sistemas de Información ---> WildFly 12.0, Eclipse JEE, Planner, Office 365
 
 Software Libre ---> GutHub 
 
-Gestión de base de datods ---> Postgres, Pentaho Report Designer, Pentaho Data Integration, Power Architect
+Gestión de base de datos ---> Postgres, Pentaho Report Designer, Pentaho Data Integration, Power Architect
 
 ### Módulos 🔧
 
