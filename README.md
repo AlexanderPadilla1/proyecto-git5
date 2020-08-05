@@ -1,4 +1,4 @@
-#Desarrollo de una aplicación que acceda a una base de datos multidimensional utilizando herramientas de software libre
+Desarrollo de una aplicación que acceda a una base de datos multidimensional utilizando herramientas de software libre
 # Casos de COVID-19 en España - Grupo 7
 
 El presente proyecto integrador se compone de dos partes. La primera es un sistema donde se aplicará los conocimientos de Sistemas de Información y Gestión de Base de Datos;
@@ -79,15 +79,13 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
-## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
-Alexander Padilla
-Marlon Ruales
-Jordy Quilachamin
-Bryan Ocaña
+Alexander Padilla, 
+Marlon Ruales, 
+Jordy Quilachamin, 
+Bryan Ocaña, 
 
 ## Licencia 📄
 
@@ -95,11 +93,9 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
+*Un trabajo de investigación es siempre fruto de ideas, proyectos y esfuerzos previos que
+corresponden a otras personas. En este caso damos un sincero agradecimiento a la Universidad Politecnica Salesiana y en especial a los ingenierios de la carrera de Ingenieria en Ciencias de la Computacion, ya que por su conocimiento brindado nos ayudara en un futuro a enfrentar la vida profesional sin duda estaremos siempre en
+deuda. Gracias a todos por su  su tiempo y sus ideas. 
 
 
 ---
