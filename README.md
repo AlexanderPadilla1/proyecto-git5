@@ -17,8 +17,11 @@ genere durante el proyecto se manejará de forma centralizada a través de un re
 
 
 ## Construido con 🛠️
+
 Sistemas de Información ---> WildFly 12.0, Eclipse JEE, Planner, Office 365
+
 Software Libre ---> GutHub
+
 Gestión de base de datods ---> Postgres, Pentaho Report Designer, Pentaho Data Integration, Power Architect
 
 ### Módulos 🔧
@@ -28,12 +31,15 @@ Gestión de base de datods ---> Postgres, Pentaho Report Designer, Pentaho Data 
 Este módulo permite la administración de usuarios (creación de usuarios, cambio de clave, bloqueo de usuarios y consulta de usuarios). Además, en este módulo se guarda el registro de las actividades realizadas en la base de datos mediante auditoría. Existen tres tipos de usuarios: invitado quien no necesita registrarse para acceder a la información pública del portal, administrador quien tiene acceso al módulo de seguridad y usuario registrado que puede visualizar reportes especializados en el módulo de reportes.
 
 --Módulo Reportes 
+
 Este módulo consiste en la creación y publicación de reportes avanzados, cuya fuente de información será la base de datos multidimensional (Almacén de datos), cada uno de los reportes deben ser presentados en una aplicación web, desde la cual el usuario ingresará o seleccionará los criterios de búsqueda para generar el reporte. Los reportes deberán ser para contestar las preguntas que cada grupo tendrá en el archivo de requerimientos del Datawarehouse. Los tipos de reportes que deberán presentar son: 
+
 · Tipo texto  
 · Con gráficos de barras 
 · Con gráficos tipo pastel 
 
 --Módulo de invitado 
+
 Este módulo se accede sin necesidad de autenticación. Muestra información básica de la aplicación para visitantes. Contiene un resumen de los indicadores que maneja el sistema y gráficas básicas. Los visitantes en esta parte no pueden aplicar filtros ni generar reportes. También debe mostrar información sobre los autores del sistema y los enlaces al repositorio de software.
 
 
