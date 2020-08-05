@@ -40,7 +40,8 @@ Este módulo se accede sin necesidad de autenticación. Muestra información bá
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki [[Home|https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git]]
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
+[Wiki](https://github.com/AlexanderPadilla1/proyecto-git5.wiki.git)
 
 ## Autores ✒️
 Alexander Padilla, 
