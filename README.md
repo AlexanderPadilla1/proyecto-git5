@@ -51,7 +51,7 @@ Bryan Ocaña,
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia pública de Eclipse - v 2.0
 
 ## Expresiones de Gratitud 🎁
 
